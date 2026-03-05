@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Hi%20mate!%20I'm%20Prathmesh%20Sanmukh%20👋&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+mate!+I'm+Prathmesh+Sanmukh+👋;Data+Analyst+in+the+making+📊;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Always+exploring+hidden+patterns+🔍" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Hi+mate!+I'm+Prathmesh+Sanmukh+%F0%9F%91%8B" alt="Hi mate! I'm Prathmesh Sanmukh"/>
 </p>
 
 # 💫 About Me
