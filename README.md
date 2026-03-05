@@ -1,7 +1,9 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Hi%20mate!%20I'm%20Prathmesh%20Sanmukh%20👋&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="./header.svg" alt="Hi mate, I'm Prathmesh Sanmukh" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+mate!+I'm+Prathmesh+Sanmukh+👋;Data+Analyst+in+the+making+📊;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Always+exploring+hidden+patterns+🔍" alt="Typing SVG"/>
 </p>
 
 # 💫 About Me
