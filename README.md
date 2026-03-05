@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Hi+mate!+I'm+Prathmesh+Sanmukh+%F0%9F%91%8B" alt="Hi mate! I'm Prathmesh Sanmukh"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi+mate!+%F0%9F%91%8B+I'm+Prathmesh+Sanmukh" alt="Hi mate! I'm Prathmesh Sanmukh"/>
 </p>
 
 # 💫 About Me
