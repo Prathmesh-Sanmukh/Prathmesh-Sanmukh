@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi+mate!+%F0%9F%91%8B+I'm+Prathmesh+Sanmukh" alt="Hi mate! I'm Prathmesh Sanmukh"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:0a2a6e,100:0d1117&height=160&text=Hi%20mate!%20%F0%9F%91%8B%20I%27m%20Prathmesh%20Sanmukh&fontSize=36&fontColor=58a6ff&fontAlignY=65&animation=twinkling&stroke=1a6fe0&strokeWidth=1" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%E2%9A%A1;Turning+raw+data+into+real+insights+%F0%9F%94%8D;Always+exploring+hidden+patterns...+%F0%9F%A7%A0" alt="Typing SVG"/>
 </p>
 
 # 💫 About Me
@@ -34,7 +38,9 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Prathmesh-Sanmukh&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prathmesh-Sanmukh&theme=dark&no-frame=true&no-bg=false&margin-w=6&column=6" />
+</p>
 
 ### ✍️ Random Dev Quote
 
