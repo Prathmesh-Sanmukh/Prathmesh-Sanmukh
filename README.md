@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:0a2a6e,100:0d1117&height=160&text=Hi%20mate!%20%F0%9F%91%8B%20I%27m%20Prathmesh%20Sanmukh&fontSize=36&fontColor=58a6ff&fontAlignY=65&animation=twinkling&stroke=1a6fe0&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,40:003580,70:0057d9,100:000d1a&height=180&text=Prathmesh%20Sanmukh&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=%F0%9F%91%8B%20Hi%20mate!%20%7C%20Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=70&descSize=16&descAlign=50&animation=fadeIn&stroke=58a6ff&strokeWidth=2" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%E2%9A%A1;Turning+raw+data+into+real+insights+%F0%9F%94%8D;Always+exploring+hidden+patterns...+%F0%9F%A7%A0" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3500&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%93%8A+Turning+raw+data+into+real+insights;%E2%9A%A1+Python+%7C+SQL+%7C+Power+BI+%7C+Excel;%F0%9F%94%8D+Always+finding+hidden+patterns;%F0%9F%8E%AF+Future+Data+Analyst+%E2%80%94+Watch+this+space!" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,100:0057d9&height=100&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
 # 💫 About Me
