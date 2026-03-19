@@ -10,7 +10,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,100:0057d9&height=100&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
-# 💫 About Me
 
 ## 👨‍💻 About Me
 
